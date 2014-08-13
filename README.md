@@ -61,6 +61,8 @@ camera.on('error', function(err) {
 1. Now run `tessel run index.js --upload-dir .`. The upload-dir flag lets you specify where the photos are saved.
 1. Take pictures!
 
+![](http://cdn.instructables.com/F59/XGCA/HY5Y5YH7/F59XGCAHY5Y5YH7.LARGE.jpg)
+
 ###Twitter Tesselcam
 
 If you want to take it a step further, this code (twittercam.js) will make it automatically post the picture it just took to Twitter as @TesselTweet:
@@ -202,6 +204,8 @@ camera.on('error', function (err) {
 1. Connect Tessel to wifi: run `tessel wifi -n <network> -p <password>`
 1. Now run `tessel run twittercam.js`.
 1. Take pictures! Check out the results on the [@TesselTweet twitter page](https://twitter.com/TesselTweet).
+
+![](http://cdn.instructables.com/FKQ/4SIG/HY5Y5W0K/FKQ4SIGHY5Y5W0K.LARGE.jpg)
 
 ###Other things you could (trivially) do with this hardware setup:
 
