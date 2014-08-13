@@ -1,0 +1,31 @@
+{
+  "name": "Tesselcam",
+  "version": "0.0.0",
+  "description": "Take pictures with Tessel's Camera Module using the config button, and send them to Twitter!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Frijol/Tesselcam.git"
+  },
+  "keywords": [
+    "camera",
+    "tessel",
+    "Twitter"
+  ],
+  "hardware": [
+    "README.md",
+    "LICENSE"
+  ],
+  "author": "Kelsey Breseman <ifoundthemeaningoflife@gmail.com> (http://ifoundthemeaningoflife.com/)",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Frijol/Tesselcam/issues"
+  },
+  "homepage": "https://github.com/Frijol/Tesselcam",
+  "dependencies": {
+    "camera-vc0706": "^0.1.6"
+  }
+}
